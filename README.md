@@ -6,3 +6,6 @@ Download the file from releases, open it in arduino ide and upload it.
 To get into UEFI press the button on joystick module. And to leave press same button.
 # What needed for this project?
 Small 128x64 oled screen, joystick module.
+
+# What can i do for it?
+Anything, run your program after 5 delay of uefi. Or boot your custom os after delay. Anything. And mod it.
