@@ -1,5 +1,5 @@
 # Arduino UEFI Firmware
-UEFI firmware simulator for Arduino UNO/Mega/Nano and also other arduino devices (maybe).
+UEFI firmware simulator for Arduino UNO/Mega/Nano/ESP32 and also other arduino devices (maybe).
 # How to install it?
 Download the file from releases, open it in arduino ide and upload it.
 # How to use it?
