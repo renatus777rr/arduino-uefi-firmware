@@ -3,7 +3,7 @@ UEFI firmware simulator for Arduino UNO/Mega/Nano and also other arduino devices
 # How to install it?
 Download the file from releases, open it in arduino ide and upload it.
 # How to use it?
-To get into UEFI press the button on joystick module. And to leave press same button.
+To get into UEFI press the button on joystick module. And to leave press same button(on old release), select 4 option in menu(new)
 # What needed for this project?
 Small 128x64 oled screen, joystick module.
 
